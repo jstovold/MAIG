@@ -7,5 +7,3 @@ dependencies:
   - ipython
   - matplotlib
   - scipy
-  - pip:
-    - mido
