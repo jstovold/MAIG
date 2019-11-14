@@ -1,0 +1,11 @@
+name: jhs503_environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - ipython
+  - matplotlib
+  - scipy
+  - pip:
+    - mido
